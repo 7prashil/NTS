@@ -235,7 +235,7 @@ ul{
 }
 /*------- media query for menu ---------*/
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 500px){
     
     nav ul{
         position: absolute;
